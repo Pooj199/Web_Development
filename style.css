@@ -1,0 +1,23 @@
+h1{
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 50px;
+    text-align: center;
+    color: white;
+    
+}
+p{
+    text-align: center;
+    color: white;
+}
+img{
+    text-align: center;
+    border: 5px;
+    border-radius: 1em;
+    margin-left: 36%;
+    margin-top: 100px;
+}
+body{
+    background-color: black;
+}
+
